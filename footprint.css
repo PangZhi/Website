@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background:rgba(88,211,247,0.35); width:100%;  text-align:center}
+div {background:white; }
+#canva-shadow {background: #cccccc; margin:auto; width:80%; border-radius:20px}
+#canva {background:white; padding:10px; position: relative; top:-5px; left:-5px; border-radius:inherit;}
+
+#canava div {float:left}
+
+#header {width:100%}
+#logo {width:30%;float:left;}
+#quote {font-size:16px; font-family:'Comic Sans MS'}
+#head-right{width:70%;float:left;}
+#quote {width:100%; }
+#menu {width:100%;float:left;}
+#menu ul {width:100%; list-style:none}
+#menu li {float:left; width:25%; font-size:14px}
+.clear {clear:both}
+a {text-decoration:none; color:black}
+#main {width:100%}
+#board {height:500px; width:60%; float:left}
+#nav{width:40%; float:left}
+#board div {float:left; height:250px; width:50%}
